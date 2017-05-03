@@ -1,8 +1,8 @@
 # SSLTest
-Test servers for SSL/TLS protocol and cipher support. The code is written by Christopher Schultz. See original code at:
+Test servers for SSL/TLS protocol and cipher support.  This uses code written and copyrighted by Christopher Schultz and compiles it into a self-contained JAR file.  See original code at:
 
-[SSLTest.java](https://wiki.apache.org/tomcat/tools/SSLTest.java)
-[SSLUtils.java](https://wiki.apache.org/tomcat/tools/SSLUtils.java)
+* [SSLTest.java](https://wiki.apache.org/tomcat/tools/SSLTest.java)
+* [SSLUtils.java](https://wiki.apache.org/tomcat/tools/SSLUtils.java)
 
 ### Build
 
